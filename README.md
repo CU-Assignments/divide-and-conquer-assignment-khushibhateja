@@ -232,7 +232,7 @@ OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/763c370c-fb53-4ef9-bb36-f2363c381385)
 
-# 9.Longest Increasing Subsequence II
+# 10.Longest Increasing Subsequence II
 
 CODE: 
 

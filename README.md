@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5413c568-38c3-4424-8024-ad7f5c3e6829)[![Review Assignment Due Date]
 
 # 1.Longest Nice Substring
 
